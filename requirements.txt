@@ -1,7 +1,7 @@
 Flask
-joblib
-scikit-learn
-gunicorn
 pandas
 fastapi
 uvicorn
+joblib
+numpy
+scikit-learn
